@@ -2,5 +2,5 @@
 
 select * 
 from {{ref('stage_casting')}}
-where 'viewers' > 79999
+where 'viewers' > 79998
 
