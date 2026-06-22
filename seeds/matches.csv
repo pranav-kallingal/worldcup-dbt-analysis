@@ -1,0 +1,101 @@
+match_id,year,home_team,away_team,home_goals,away_goals,stage,country,attendance
+1,2018,France,Croatia,4,2,Final,Russia,78011
+2,2018,Belgium,England,2,0,Third Place,Russia,60613
+3,2018,France,Belgium,1,0,Semi Final,Russia,74894
+4,2018,Croatia,England,2,1,Semi Final,Russia,78011
+5,2018,Uruguay,France,0,2,Quarter Final,Russia,42873
+6,2018,Brazil,Belgium,1,2,Quarter Final,Russia,42792
+7,2018,Sweden,England,0,2,Quarter Final,Russia,43197
+8,2018,Russia,Croatia,2,2,Quarter Final,Russia,44287
+9,2018,France,Argentina,4,3,Round of 16,Russia,44052
+10,2018,Uruguay,Portugal,2,1,Round of 16,Russia,39690
+11,2018,Russia,Spain,1,1,Round of 16,Russia,78011
+12,2018,Croatia,Denmark,1,1,Round of 16,Russia,41440
+13,2018,Brazil,Mexico,2,0,Round of 16,Russia,42877
+14,2018,Belgium,Japan,3,2,Round of 16,Russia,42873
+15,2018,Sweden,Switzerland,1,0,Round of 16,Russia,43197
+16,2018,England,Colombia,1,1,Round of 16,Russia,52115
+17,2014,Germany,Argentina,1,0,Final,Brazil,74738
+18,2014,Netherlands,Brazil,3,0,Third Place,Brazil,68034
+19,2014,Germany,Brazil,7,1,Semi Final,Brazil,58141
+20,2014,Argentina,Netherlands,0,0,Semi Final,Brazil,63267
+21,2014,France,Germany,0,1,Quarter Final,Brazil,69000
+22,2014,Brazil,Colombia,2,1,Quarter Final,Brazil,68551
+23,2014,Argentina,Belgium,1,0,Quarter Final,Brazil,57698
+24,2014,Netherlands,Costa Rica,0,0,Quarter Final,Brazil,60342
+25,2014,Brazil,Chile,1,1,Round of 16,Brazil,57714
+26,2014,Colombia,Uruguay,2,0,Round of 16,Brazil,57519
+27,2014,France,Nigeria,2,0,Round of 16,Brazil,39752
+28,2014,Germany,Algeria,2,1,Round of 16,Brazil,43063
+29,2014,Argentina,Switzerland,1,0,Round of 16,Brazil,47029
+30,2014,Belgium,USA,2,1,Round of 16,Brazil,58141
+31,2014,Netherlands,Mexico,2,1,Round of 16,Brazil,41876
+32,2014,Costa Rica,Greece,1,1,Round of 16,Brazil,39843
+33,2010,Spain,Netherlands,1,0,Final,South Africa,84490
+34,2010,Germany,Uruguay,3,2,Third Place,South Africa,36254
+35,2010,Spain,Germany,1,0,Semi Final,South Africa,55359
+36,2010,Uruguay,Netherlands,2,3,Semi Final,South Africa,56643
+37,2010,Netherlands,Brazil,2,1,Quarter Final,South Africa,53026
+38,2010,Uruguay,Ghana,1,1,Quarter Final,South Africa,62453
+39,2010,Argentina,Germany,0,4,Quarter Final,South Africa,83391
+40,2010,Spain,Paraguay,1,0,Quarter Final,South Africa,55000
+41,2010,USA,Ghana,1,2,Round of 16,South Africa,34976
+42,2010,Germany,England,4,1,Round of 16,South Africa,46056
+43,2010,Argentina,Mexico,3,1,Round of 16,South Africa,84377
+44,2010,Netherlands,Slovakia,2,1,Round of 16,South Africa,35243
+45,2010,Japan,Paraguay,0,0,Round of 16,South Africa,37692
+46,2010,Spain,Portugal,1,0,Round of 16,South Africa,63167
+47,2010,Brazil,Chile,3,0,Round of 16,South Africa,54096
+48,2010,Uruguay,South Korea,2,1,Round of 16,South Africa,30597
+49,2006,Italy,France,1,1,Final,Germany,69000
+50,2006,Germany,Portugal,3,1,Third Place,Germany,52000
+51,2006,Italy,Germany,2,0,Semi Final,Germany,66000
+52,2006,France,Portugal,1,0,Semi Final,Germany,72000
+53,2006,Germany,Argentina,1,1,Quarter Final,Germany,72000
+54,2006,Italy,Ukraine,3,0,Quarter Final,Germany,65000
+55,2006,England,Portugal,0,0,Quarter Final,Germany,72000
+56,2006,France,Brazil,1,0,Quarter Final,Germany,72000
+57,2006,Germany,Sweden,2,0,Round of 16,Germany,72000
+58,2006,Argentina,Mexico,2,1,Round of 16,Germany,66000
+59,2006,England,Ecuador,1,0,Round of 16,Germany,52000
+60,2006,Portugal,Netherlands,1,0,Round of 16,Germany,52000
+61,2006,Italy,Australia,1,0,Round of 16,Germany,66000
+62,2006,Switzerland,Ukraine,0,0,Round of 16,Germany,52000
+63,2006,Brazil,Ghana,3,0,Round of 16,Germany,66000
+64,2006,France,Spain,3,1,Round of 16,Germany,72000
+65,2002,Brazil,Germany,2,0,Final,South Korea,69029
+66,2002,Turkey,South Korea,3,2,Third Place,South Korea,63483
+67,2002,Brazil,Turkey,1,0,Semi Final,South Korea,65256
+68,2002,Germany,South Korea,1,0,Semi Final,South Korea,65461
+69,2002,England,Brazil,1,2,Quarter Final,South Korea,52584
+70,2002,Germany,USA,1,0,Quarter Final,South Korea,50562
+71,2002,Spain,South Korea,0,0,Quarter Final,South Korea,65372
+72,2002,Senegal,Turkey,0,1,Quarter Final,South Korea,26848
+73,2002,USA,Mexico,2,0,Round of 16,South Korea,36380
+74,2002,Germany,Paraguay,1,0,Round of 16,South Korea,30777
+75,2002,Denmark,England,0,3,Round of 16,South Korea,35724
+76,2002,Sweden,Senegal,1,2,Round of 16,South Korea,25176
+77,2002,Spain,Ireland,1,1,Round of 16,South Korea,38926
+78,2002,Mexico,USA,1,0,Group Stage,South Korea,41056
+79,2022,Argentina,France,3,3,Final,Qatar,88966
+80,2022,Croatia,Morocco,2,1,Third Place,Qatar,44137
+81,2022,Argentina,Croatia,3,0,Semi Final,Qatar,88966
+82,2022,France,Morocco,2,0,Semi Final,Qatar,44667
+83,2022,Netherlands,Argentina,2,2,Quarter Final,Qatar,88235
+84,2022,England,France,1,2,Quarter Final,Qatar,88235
+85,2022,Croatia,Brazil,1,1,Quarter Final,Qatar,88103
+86,2022,Morocco,Portugal,1,0,Quarter Final,Qatar,88966
+87,2022,Australia,Argentina,1,2,Round of 16,Qatar,88012
+88,2022,France,Poland,3,1,Round of 16,Qatar,44667
+89,2022,England,Senegal,3,0,Round of 16,Qatar,44667
+90,2022,Netherlands,USA,3,1,Round of 16,Qatar,88103
+91,2022,Argentina,Australia,2,1,Round of 16,Qatar,88012
+92,2022,Japan,Croatia,1,1,Round of 16,Qatar,44137
+93,2022,Brazil,South Korea,4,1,Round of 16,Qatar,88103
+94,2022,Morocco,Spain,0,0,Round of 16,Qatar,44667
+95,2019,France,USA,2,0,Final,France,57900
+96,2019,Sweden,England,2,1,Third Place,France,20316
+97,2019,Netherlands,Sweden,1,0,Semi Final,France,48452
+98,2019,USA,England,2,1,Semi Final,France,53512
+99,2019,France,USA,2,1,Quarter Final,France,25302
+100,2019,Netherlands,Italy,2,0,Quarter Final,France,21669
