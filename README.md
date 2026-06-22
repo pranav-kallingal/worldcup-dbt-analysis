@@ -39,13 +39,3 @@ dbt test
 dbt docs generate
 dbt docs serve
 ```
-
-## Notes for GitHub
-
-Keep source files and dbt configuration in the repo.
-Do not commit generated or local build artifacts:
-- `target/`
-- `dbt_packages/`
-- `logs/`
-
-If `worldcup.duckdb` is a local development database file, do not include it in your public repository unless you explicitly want to share the dataset file.
