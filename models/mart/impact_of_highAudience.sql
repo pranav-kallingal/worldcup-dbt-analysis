@@ -1,6 +1,6 @@
--- attendance above 80000
+-- attendance above 80,000
 
-select * 
-from {{ref('stage_casting')}}
-where 'viewers' > 79998
+select *
+from {{ ref('stage_casting') }}
+where attendance > 80000
 

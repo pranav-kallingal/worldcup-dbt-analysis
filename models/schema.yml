@@ -5,19 +5,26 @@ models:
     description: "Source staging model that reads raw World Cup match data from the seeded CSV."
   - name: stage_casting
     description: "Casts raw source fields to typed columns and prepares staged match data for downstream analysis."
-  - name: mart_dataset
-    description: "Full match dataset built from staged World Cup data for general analytics."
+  - name: mart_winners
+    description: "Determines the winner for each match, or marks a draw when scores are tied."
     columns:
       - name: match_id
-        description: "The primary key for each match record."
         tests:
           - unique
           - not_null
-  - name: mart_winners
-    description: "Determines the winner for each match, or marks a draw when scores are tied."
   - name: mart_goal_average_perteam
     description: "Calculates the average total goals per match by year."
   - name: mart_brazil_win
     description: "Filters matches where Brazil won either at home or away."
-  - name: mart_attendance_80000abv
+    columns:
+      - name: match_id
+        tests:
+          - unique
+          - not_null
+  - name: impact_of_highAudience
     description: "Selects matches with attendance greater than 80,000."
+    columns:
+      - name: match_id
+        tests:
+          - unique
+          - not_null

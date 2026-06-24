@@ -1,7 +1,8 @@
-select  
-    * 
-from    
-    {{ref('stage_casting')}}
-where   
-    ('home_team' like 'Brazil' and 'home_goals' > 'away_goals') and 
-    ('away_team' like 'Brazil' and 'home_goals' < 'away_goals')
+select
+    *
+from
+    {{ ref('stage_casting') }}
+where
+    (home_team = 'Brazil' and home_goals > away_goals)
+    or
+    (away_team = 'Brazil' and away_goals > home_goals)

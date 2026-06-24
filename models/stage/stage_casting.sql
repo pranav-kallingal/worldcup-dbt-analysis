@@ -1,5 +1,5 @@
 select
-    cast(match_id as int) as match_id ,
+    cast(match_id as int) as match_id,
     cast(year as int) as year,
     cast(home_team as varchar) as home_team,
     cast(away_team as varchar) as away_team,
@@ -7,7 +7,7 @@ select
     cast(away_goals as int) as away_goals,
     cast(stage as varchar) as stage,
     cast(country as varchar) as country,
-    cast(attendance as int) as viewer
+    cast(attendance as int) as attendance
 
 from 
     {{ ref('stage_frm_source') }}
